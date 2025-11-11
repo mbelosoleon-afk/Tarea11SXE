@@ -24,3 +24,15 @@ Este es el menú principal
 
 ![Tarea11SXE5.png](Images/Tarea11SXE5.png)
 
+Instalamos los módulo ventas compras y contactos
+
+![Tarea11SXE6.png](Images/Tarea11SXE6.png)
+
+Iniciamos sesión también en pgadmin
+
+![Tarea11SXE7.png](Images/Tarea11SXE7.png)
+
+Este es el menú principal de pgadmin
+
+![Tarea11SXE8.png](Images/Tarea11SXE8.png)
+
